@@ -3,7 +3,7 @@ package searchalgos;
 class missingnumbers {
 
     public static void main(String[] args) {
-        int[] arr = {4, 0, 2, 1,5,7,10,9,6,3};
+        int[] arr= {5,3,1,2,4};
         System.out.println(missingNumber(arr));
     }
 
